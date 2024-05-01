@@ -52,11 +52,12 @@ head{
     
 }
 
-.nav-button{
+.nav-button {
     align-items: center;
     display: inline;
     padding: 15px;
 }
+
 .Donate {
     display: inline;
     width: 89px;
@@ -74,6 +75,7 @@ head{
     line-height: 150%;
     letter-spacing: -0.352px;
 }
+
 .Donate-colore {
     display: inline;
     width: 89px;
@@ -91,10 +93,10 @@ head{
     line-height: 150%;
     letter-spacing: -0.352px;
 }
-section.Map&EventInfo {
+section.MapEventInfo {
     display: grid;
 }
-.menu{
+.menu {
     display: none;
 }
 #TopNav {
